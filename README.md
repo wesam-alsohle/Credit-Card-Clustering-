@@ -32,6 +32,10 @@ Following is the Data Dictionary for Credit Card dataset:
 * ONEOFF_PURCHASES: Maximum purchase amount done in one-go
 * INSTALLMENTS_PURCHASES: Amount of purchase done in installment
 * CASH_ADVANCE: Cash in advance given by the user
+
+## Correlation Check
+
+![heatmap](pictures/heatmap_cc.png)
 * PURCHASES_FREQUENCY: How frequently the Purchases are being made, score between 0 and 1 (1 = frequently purchased, 0 = not frequently purchased)
 * ONEOFFPURCHASESFREQUENCY: How frequently Purchases are happening in one-go (1 = frequently purchased, 0 = not frequently purchased)
 * PURCHASESINSTALLMENTSFREQUENCY: How frequently purchases in installments are being done (1 = frequently done, 0 = not frequently done)
