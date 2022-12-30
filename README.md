@@ -52,3 +52,6 @@ One of the most important preprocessing steps in a Data Science project. In this
 
 ![heatmap](pictures/heatmap_cc.png.png)
 
+##  Dimension Reduction usingPrincipal Component Analysis (PCA) 
+
+![pca](pictures/pca.gif)
