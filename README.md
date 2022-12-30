@@ -7,7 +7,7 @@ Credit Card Clustering (PCA + Kmeans + Agglomerative Hierarchical + Gaussian Mix
 
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables. You need to develop a customer segmentation to define marketing strategy from the dataset.
 
-Full codes can be found [here](Credit Card Clustering (PCA + Kmeans + Agglomerative Hierarchical + Gaussian Mixture + Clustering.rar).
+Full codes can be found [here](https://github.com/wesam-alsohle/Credit-Card-Clustering-/Credit Card Clustering (PCA + Kmeans + Agglomerative Hierarchical + Gaussian Mixture + Clustering.rar).
 
 # Objective
 
