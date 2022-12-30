@@ -46,5 +46,5 @@ Following is the Data Dictionary for Credit Card dataset:
 
 ## Correlation Check
 
-![heatmap](pictures/heatmap_cc.png)
+![heatmap](pictures/heatmap_cc.png.png)
 
