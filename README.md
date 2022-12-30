@@ -44,6 +44,11 @@ Following is the Data Dictionary for Credit Card dataset:
 * PRCFULLPAYMENT: Percent of full payment paid by user
 * TENURE: Tenure of credit card service for user
 
+# Data Cleaning
+![heatmap](pictures/clean.png)
+
+One of the most important preprocessing steps in a Data Science project. In this project, I imputed missing values with the median value, dropped the CUST_ID column, then For our application I am looking for a good visualization so I would like to handle the skewness as much as possible as it will help the model to form better clusters.
+
 ## Correlation Check
 
 ![heatmap](pictures/heatmap_cc.png.png)
