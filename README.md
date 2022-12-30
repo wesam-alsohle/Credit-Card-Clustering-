@@ -57,3 +57,23 @@ One of the most important preprocessing steps in a Data Science project. In this
 Use PCA to reduce the dimensionality of our data. Select an appropriate number of components and analyze total variance explained. Interpret to make sense of the principal components.
 
 ![pca](pictures/pca.gif)
+
+## Clustering using K-Means
+
+In this section we will perform K-Means clustering on the data and check the clustering metrics (inertia, silhouette scores).
+
+
+
+### Inertia Plot
+
+First, we make the inertia plot:
+
+![elbow](pictures/elbow.png)
+
+Using the elbow method, we pick a good number of clusters to be 4.
+
+### Silhouette Scores
+
+Silhouette analysis can be used to study the separation distance between the resulting clusters. The silhouette plot displays a measure of how close each point in one cluster is to points in the neighboring clusters and thus provides a way to assess parameters like number of clusters visually. This measure has a range of [-1, 1].
+
+![silhouette scores](pictures/silhouette scores.png)
