@@ -21,7 +21,6 @@ There are a lot of features in this dataset (18 behavioral features). We will no
 * EDA to segment the customers
 
 # Data Description
-
 Link to the dataset: [Kaggle link](https://www.kaggle.com/arjunbhasin2013/ccdata)
 Following is the Data Dictionary for Credit Card dataset:
 
@@ -45,7 +44,7 @@ Following is the Data Dictionary for Credit Card dataset:
 * TENURE: Tenure of credit card service for user
 
 # Data Cleaning
-![heatmap](pictures/clean.png)
+![cleaning](pictures/clean.png)
 
 One of the most important preprocessing steps in a Data Science project. In this project, I imputed missing values with the median value, dropped the CUST_ID column, then For our application I am looking for a good visualization so I would like to handle the skewness as much as possible as it will help the model to form better clusters.
 
