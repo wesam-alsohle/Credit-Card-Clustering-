@@ -92,3 +92,7 @@ Let's try other clustering models as well!
 ## Gaussian Mixture Clustering with PCA
 
 ![gm](pictures/GaussianMixture.png)
+
+# Conclusion
+
+In this project, we have performed data preprocessing, feature extraction with PCA, looked at various clustering metrics (inertias, silhouette scores), experimented with various Clustering algorithms (KMeans Clustering, Agglomerative Hierarchical Clustering, Gaussian Mixture Clustering), data visualizations.
