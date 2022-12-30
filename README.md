@@ -53,5 +53,5 @@ One of the most important preprocessing steps in a Data Science project. In this
 ![heatmap](pictures/heatmap_cc.png.png)
 
 ##  Dimension Reduction usingPrincipal Component Analysis (PCA) 
-
+Use PCA to reduce the dimensionality of our data. Select an appropriate number of components and analyze total variance explained. Interpret to make sense of the principal components.
 ![pca](pictures/pca.gif)
