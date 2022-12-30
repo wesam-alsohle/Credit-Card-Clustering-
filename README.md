@@ -23,7 +23,6 @@ There are a lot of features in this dataset (18 behavioral features). We will no
 # Data Description
 
 Link to the dataset: [Kaggle link](https://www.kaggle.com/arjunbhasin2013/ccdata)
-
 Following is the Data Dictionary for Credit Card dataset:
 
 * CUST_ID: Identification of Credit Card holder (Categorical)
